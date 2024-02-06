@@ -1,4 +1,4 @@
-# To do list with Vue
+# Tic Tac Toe Game
 ## Intro
 This is day 26 of my 30-day coding challenge. I use HTML, CSS and JavaScript.
 
